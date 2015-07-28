@@ -1,0 +1,8 @@
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\bin\Debug\Test_1.exe.config
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\bin\Debug\Test_1.exe
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\bin\Debug\Test_1.pdb
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\bin\Debug\System.Data.SQLite.dll
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\bin\Debug\System.Data.SQLite.xml
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\obj\Debug\Test_1.csprojResolveAssemblyReference.cache
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\obj\Debug\Test_1.exe
+D:\###4_COURSE\#CHTPZ\Test_1\Test_1\obj\Debug\Test_1.pdb

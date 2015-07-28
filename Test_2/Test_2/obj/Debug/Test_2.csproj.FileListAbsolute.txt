@@ -1,0 +1,17 @@
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\Test_2.exe
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\Test_2.exe.config
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\EntityFramework.dll
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\EntityFramework.SqlServer.dll
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\System.Data.SQLite.dll
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\EntityFramework.xml
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\EntityFramework.SqlServer.xml
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\System.Data.SQLite.xml
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\obj\Debug\Test_2.Form1.resources
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\obj\Debug\Test_2.Properties.Resources.resources
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\obj\Debug\Test_2.csproj.GenerateResource.Cache
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\obj\Debug\Test_2.exe
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\obj\Debug\Test_2.pdb
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\bin\Debug\Test_2.pdb
+D:\###4_COURSE\#CHTPZ\Test_2\Test_2\obj\Debug\Test_2.csprojResolveAssemblyReference.cache
